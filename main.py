@@ -11,7 +11,7 @@ load_dotenv()
 
 def main():
     # Path to PDF
-    file_path = "data/ScrumGuide.pdf"  
+    file_path = "data/document.pdf"  
     # Example user query
     query = "What is the scrum framework?"  
 
